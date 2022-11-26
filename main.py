@@ -14,7 +14,7 @@ def generate_hash():
     else:
         hashed = hashlib.md5(usr_inp.encode()).hexdigest()
         hash_label.configure(text=str(hashed))
-        copybtn.configure(state='active')
+        copybtn.configure(state='normal')
 def clear_inp():
     inp.delete(0,'end')
     inp.insert(0,'')
