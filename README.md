@@ -2,10 +2,10 @@
 ## Md5 Hash Generator
 
 > Script Simply Converts Strings To Md5Hash 
-
+>
 > Visit My Website https://lukkshh.ga/
-
-![Licence](https://img.shields.io/github/license/lukkshh/Md5Hash-Generator-GUI)
+>
+> ![Licence](https://badgen.net/github/license/lukkshh/Md5Hash-Generator-GUI)
 
 ## Installation And Usage
 
