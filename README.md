@@ -1,5 +1,6 @@
 
 ## Md5 Hash Generator
+![Licence](https://img.shields.io/github/license/lukkshh/Md5Hash-Generator-GUI)
 
 > Script Simply Converts Strings To Md5Hash 
 
