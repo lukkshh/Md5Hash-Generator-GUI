@@ -16,7 +16,7 @@ git clone https://github.com/lukkshh/Md5Hash-Generator-GUI.git
 cd Md5Hash-Generator-GUI 
 ```
 ```sh
-pip install requirements.txt 
+pip install -r requirements.txt 
 ```
 ```sh
 python main.py 
